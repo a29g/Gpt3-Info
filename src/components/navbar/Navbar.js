@@ -9,7 +9,7 @@ const Navbar = () => {
     <div className="gpt3__navbar">
       <div className="gpt3__navbar-links">
         <div className="gpt3__navbar-links_logo">
-          <img src={logo} />
+          <img src={logo} alt="logo" />
         </div>
         <div className="gpt3__navbar-links_container">
           <p>
@@ -19,10 +19,10 @@ const Navbar = () => {
             <a href="#agpt3 ">About GPT3</a>
           </p>
           <p>
-            <a href="#possibility"> Open AI</a>
+            <a href="#features"> Case Studies</a>
           </p>
           <p>
-            <a href="#features"> Case Studies</a>
+            <a href="#possibility"> Open AI</a>
           </p>
           <p>
             <a href="#blog"> Library</a>

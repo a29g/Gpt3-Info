@@ -1,0 +1,11 @@
+.gpt3__brand{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.section__padding img{
+
+    margin: 15px;
+}
