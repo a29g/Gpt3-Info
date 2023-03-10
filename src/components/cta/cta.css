@@ -48,7 +48,7 @@
     cursor: pointer;
 }
 
-@media screen and (max-width: 550px){
+@media screen and (max-width: 650px){
   .gpt3__cta{
     display: flex;
     flex-direction: column;
