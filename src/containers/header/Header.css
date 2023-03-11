@@ -113,8 +113,10 @@
 }
 
 .gpt3__header-image img {
-    width: 100%;
+    width: 80%;
     height: 100%;
+    border-radius: 10px;
+    box-shadow: #fff;
 }
 
 @media screen and (max-width: 1050px) {
